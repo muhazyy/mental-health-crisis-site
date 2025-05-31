@@ -1,1 +1,72 @@
 # mental-health-crisis-site
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Support Better Crisis Response</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #274c77;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background-color: white;
+    }
+    h2 {
+      color: #274c77;
+    }
+    a.button {
+      display: inline-block;
+      padding: 0.5rem 1rem;
+      background-color: #6096ba;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 1rem;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      padding: 1rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Police & Mental Health Crises: We Can Do Better</h1>
+  </header>
+
+  <main>
+    <h2>Why This Matters</h2>
+    <p>Every year, people in mental health crises are met with force instead of care. Many end up arrested, hospitalized unnecessarily, or worse—killed. This broken system needs change.</p>
+
+    <h2>Our Goal</h2>
+    <p>We want to raise awareness and push for the expansion of crisis intervention teams (CITs), better police training, and non-police responses to mental health emergencies.</p>
+
+    <h2>Take Action</h2>
+    <p>Join us in supporting reform. Learn more, share resources, and sign petitions calling for change.</p>
+    <a class="button" href="https://www.nami.org/Advocacy/Crisis-Intervention" target="_blank">Learn More & Act</a>
+
+    <h2>Need Help Now?</h2>
+    <p>If you or someone you know is in crisis, call or text 988 for immediate support.</p>
+  </main>
+
+  <footer>
+    <p>Created by a student advocate for AP Language | 2025</p>
+  </footer>
+</body>
+</html>
